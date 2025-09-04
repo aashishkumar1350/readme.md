@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=%24+nmap+Jatin+Panchal;Initializing+Cyber+Profile...;Loading+MERN+Stack+Modules;Deploying+Portfolio+to+Netlify;Injecting+Code+into+the+Matrix...;Welcome+to+my+Dev+World+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39FF14&center=true&vCenter=true&repeat=true&width=900&lines=%24+nmap+Aashish+Kumar;Initializing+Cyber+Profile...;Loading+MERN+Stack+Modules;Deploying+Portfolio+to+Netlify;Injecting+Code+into+the+Matrix...;Welcome+to+my+Dev+World+%F0%9F%9A%80" />
 </h1>
 
 ---
@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Jatin+Panchal!;MERN+Stack+Web+Developer+%F0%9F%9A%80;C%2FC%2B%2B%2FJava+Programmer+%E2%9C%94%EF%B8%8F;AWS+%7C+Three.js+%7C+DSA+Lover;Let's+Build+Something+Awesome!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashish+Kumar!;MERN+Stack+Web+Developer+%F0%9F%9A%80;C%2FC%2B%2B%2FJava+Programmer+%E2%9C%94%EF%B8%8F;AWS+%7C+Three.js+%7C+DSA+Lover;Let's+Build+Something+Awesome!+%F0%9F%92%BB" />
 </h1>
 
 ---
@@ -27,13 +27,13 @@
 ## 👨‍💻 About Me
 
 🎓 **BCA student** at Meerut Institute of Technology  
-📍 From Shamli, India  
+📍 From Ghaziabad, India  
 💻 Passionate **MERN Stack Developer**  
 ☁️ Exploring **AWS**, **Three.js**, & full-stack deployment  
 🧠 Love solving problems with **C/C++**, **Java**, & **DSA**  
 🎸 Hobbies: Coding | Reading | Playing Guitar  
 
-> 💼 Visit my Portfolio: [personal-portfollio-jatin.netlify.app](https://personal-portfollio-jatin.netlify.app/)
+> 💼 
 
 ---
 
@@ -78,15 +78,15 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatin-vishwakarma-a2ba05310/" target="_blank">
+  <a href="https://www.linkedin.com/in/aashish-kumar-619104297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jatinpanchal8439@gmail.com" target="_blank">
+  <a href="mailto:parjapatiaashish0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://personal-portfollio-jatin.netlify.app/" target="_blank">
+<!--   <a href="https://personal-portfollio-jatin.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=web&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
