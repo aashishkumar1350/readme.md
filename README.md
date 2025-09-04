@@ -31,7 +31,7 @@
 💻 Passionate **MERN Stack Developer**  
 ☁️ Exploring **AWS**, **Three.js**, & full-stack deployment  
 🧠 Love solving problems with **C/C++**, **Java**, & **DSA**  
-🎸 Hobbies: Coding | Reading | Playing Guitar  
+🎸 Hobbies: Coding | Reading | Learn the new things 
 
 > 💼 
 
